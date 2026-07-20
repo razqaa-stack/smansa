@@ -1,6 +1,16 @@
 [
   {
-    "id": 1784548322369,
+    "id": 1784548326726,
+    "nama": "Luthfi Karim",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 822-8991-3571",
+    "mapel": "Matematika",
+    "status": "Hadir",
+    "jam": "18.52",
+    "tgl": "20/7/2026"
+  },
+  {
+    "id": 1784548321386,
     "nama": "Khaira Sachi Kayana",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 821-7002-0056",
