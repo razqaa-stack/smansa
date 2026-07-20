@@ -2,5 +2,12 @@
   "kelases": [
     "X.1 DIGITAL"
   ],
-  "siswas": []
+  "siswas": [
+    {
+      "id": 1784540740086,
+      "nama": "Ahmad Syauqi Awinza",
+      "kelas": "X.1 DIGITAL",
+      "nohp": "+62 838-6775-9688"
+    }
+  ]
 }
