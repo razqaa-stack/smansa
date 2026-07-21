@@ -1,9 +1,19 @@
 [
   {
-    "id": 1784602792730,
-    "nama": "Hakam Sadiq Pati",
+    "id": 1784602795224,
+    "nama": "Keisha Raina Rahman",
     "kelas": "X.1 DIGITAL",
-    "nohp": "-",
+    "nohp": "+62 812-7473-4591",
+    "mapel": "TIK",
+    "status": "Hadir",
+    "jam": "09.59",
+    "tgl": "21/7/2026"
+  },
+  {
+    "id": 1784602791193,
+    "nama": "Khaira Sachi Kayana",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 821-7002-0056",
     "mapel": "TIK",
     "status": "Hadir",
     "jam": "09.59",
