@@ -1,9 +1,19 @@
 [
   {
-    "id": 1784602748490,
-    "nama": "Alika Kaysha Athalia",
+    "id": 1784602750134,
+    "nama": "Aulia Anisa Putri",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 895-1857-9735",
+    "nohp": "+62 838-2604-8596",
+    "mapel": "TIK",
+    "status": "Hadir",
+    "jam": "09.59",
+    "tgl": "21/7/2026"
+  },
+  {
+    "id": 1784602746759,
+    "nama": "Darrell Yusuf Athila",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "-",
     "mapel": "TIK",
     "status": "Hadir",
     "jam": "09.59",
