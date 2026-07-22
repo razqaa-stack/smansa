@@ -1,5 +1,16 @@
 [
   {
+    "id": 1784690695652,
+    "nama": "Nashita Naura",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 812-7722-0850",
+    "mapel": "GEOGRAFI",
+    "status": "Hadir",
+    "jam": "10.24",
+    "tgl": "22/7/2026",
+    "petugas": "Khaira"
+  },
+  {
     "id": 1784690689446,
     "nama": "Aulia Anisa Putri",
     "kelas": "X.1 DIGITAL",
@@ -363,15 +374,15 @@
     "petugas": "Khaira"
   },
   {
-    "id": 1784690699712,
+    "id": 1784686009302,
     "nama": "Arum Mustifa",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 831-8751-2604",
     "mapel": "B. INDONESIA",
     "status": "Hadir",
-    "jam": "10.24",
+    "jam": "09.07",
     "tgl": "22/7/2026",
-    "petugas": "Syauqi"
+    "petugas": "Razqa"
   },
   {
     "id": 1784685598825,
