@@ -1,5 +1,16 @@
 [
   {
+    "id": 1784690738598,
+    "nama": "Fabyola Safitri",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 878-1154-6321",
+    "mapel": "GEOGRAFI",
+    "status": "Hadir",
+    "jam": "10.25",
+    "tgl": "22/7/2026",
+    "petugas": "Syauqi"
+  },
+  {
     "id": 1784690727688,
     "nama": "Zahwa Alya putri",
     "kelas": "X.1 DIGITAL",
@@ -22,7 +33,7 @@
     "petugas": "Khaira"
   },
   {
-    "id": 1784690736816,
+    "id": 1784690718415,
     "nama": "Darrell Yusuf Athila",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 812-6810-404",
@@ -30,7 +41,7 @@
     "status": "Hadir",
     "jam": "10.25",
     "tgl": "22/7/2026",
-    "petugas": "Khaira"
+    "petugas": "Razqa"
   },
   {
     "id": 1784690712001,
