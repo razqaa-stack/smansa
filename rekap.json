@@ -1,14 +1,25 @@
 [
   {
-    "id": 1784690725607,
-    "nama": "Rakha Dwinanda Putra",
+    "id": 1784690728778,
+    "nama": "Arum Mustifa",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 821-7152-8540",
+    "nohp": "+62 831-8751-2604",
     "mapel": "GEOGRAFI",
     "status": "Hadir",
     "jam": "10.25",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Syauqi"
+  },
+  {
+    "id": 1784690722072,
+    "nama": "Alicia Queenara",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 821-7089-9030",
+    "mapel": "GEOGRAFI",
+    "status": "Hadir",
+    "jam": "10.25",
+    "tgl": "22/7/2026",
+    "petugas": "Khaira"
   },
   {
     "id": 1784690718415,
