@@ -1,113 +1,124 @@
 [
   {
-    "id": 1784678814893,
-    "nama": "Sabrina Arif Rayyani",
+    "id": 1784678816990,
+    "nama": "Ahmad Syauqi Awinza",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 853-5501-9199",
+    "nohp": "+62 838-6775-9688",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678805963,
-    "nama": "Alika Kaysha Athalia",
+    "id": 1784678812272,
+    "nama": "Farrel Alvaro Laksamana",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 895-1857-9735",
+    "nohp": "+62 877-1121-8213",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678798908,
-    "nama": "Rivana Azzahra",
+    "id": 1784678809097,
+    "nama": "Muhammad Sazlan Shah",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 812-2908-5724",
+    "nohp": "+62 895-3289-63535",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678793034,
-    "nama": "Karen Trirely Gita Simatupang",
+    "id": 1784678796036,
+    "nama": "Muhammad Al Akram Boer",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 821-5997-0950",
+    "nohp": "+62 896-7941-8538",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678787405,
-    "nama": "Nashita Naura",
+    "id": 1784678790423,
+    "nama": "Taufiq Muhammad Rafi",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 812-7722-0850",
+    "nohp": "+62 895-4025-25533",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678775969,
-    "nama": "Aulia Anisa Putri",
+    "id": 1784678781002,
+    "nama": "Muhammad Ibnu Syabil",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 838-2604-8596",
+    "nohp": "+62 813-7884-8072",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678771684,
-    "nama": "Lakeysha Aura Rezki",
+    "id": 1784678778238,
+    "nama": "Farel Aufa Deza",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 812-7555-4776",
+    "nohp": "+62 812-7607-7612",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678763728,
-    "nama": "Keisha Raina Rahman",
+    "id": 1784678768737,
+    "nama": "Darrell Yusuf Athila",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 812-7473-4591",
+    "nohp": "+62 812-6810-404",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.06",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
-    "id": 1784678757825,
-    "nama": "Jihan Afifah",
+    "id": 1784678765802,
+    "nama": "Zheno Alfares",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 895-3623-89300",
+    "nohp": "+62 822-8498-3746",
+    "mapel": "MATEMATIKA",
+    "status": "Hadir",
+    "jam": "07.06",
+    "tgl": "22/7/2026",
+    "petugas": "Aga"
+  },
+  {
+    "id": 1784678760415,
+    "nama": "Hakam Sadiq Pati",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 812-6125-8742",
+    "mapel": "MATEMATIKA",
+    "status": "Hadir",
+    "jam": "07.06",
+    "tgl": "22/7/2026",
+    "petugas": "Aga"
+  },
+  {
+    "id": 1784678753465,
+    "nama": "Syauqi  Addawi",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 821-7041-8300",
     "mapel": "MATEMATIKA",
     "status": "Hadir",
     "jam": "07.05",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
-  },
-  {
-    "id": 1784678753739,
-    "nama": "Atika Najwa Ikhwani",
-    "kelas": "X.1 DIGITAL",
-    "nohp": "+62 877-0928-7343",
-    "mapel": "MATEMATIKA",
-    "status": "Hadir",
-    "jam": "07.05",
-    "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Aga"
   },
   {
     "id": 1784678749872,
