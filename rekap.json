@@ -1,14 +1,25 @@
 [
   {
-    "id": 1784701863571,
+    "id": 1784701863824,
+    "nama": "Syauqi  Addawi",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 821-7041-8300",
+    "mapel": "SENI BUDAYA",
+    "status": "Hadir",
+    "jam": "13.31",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
+  },
+  {
+    "id": 1784701858046,
     "nama": "Keisha Raina Rahman",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 812-7473-4591",
     "mapel": "SENI BUDAYA",
     "status": "Hadir",
-    "jam": "13.31",
+    "jam": "13.30",
     "tgl": "22/7/2026",
-    "petugas": "Rivana"
+    "petugas": "Razqa"
   },
   {
     "id": 1784701849323,
