@@ -1,14 +1,25 @@
 [
   {
-    "id": 1784690672390,
-    "nama": "Jamillatul Lathifah",
+    "id": 1784690676211,
+    "nama": "Zheno Alfares",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 821-7070-4249",
+    "nohp": "+62 822-8498-3746",
     "mapel": "GEOGRAFI",
     "status": "Hadir",
     "jam": "10.24",
     "tgl": "22/7/2026",
-    "petugas": "Khaira"
+    "petugas": "Razqa"
+  },
+  {
+    "id": 1784690670519,
+    "nama": "Luthfi Karim",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 822-8991-3571",
+    "mapel": "GEOGRAFI",
+    "status": "Hadir",
+    "jam": "10.24",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
   },
   {
     "id": 1784690662331,
