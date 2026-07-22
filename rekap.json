@@ -1,14 +1,25 @@
 [
   {
-    "id": 1784690780427,
-    "nama": "Karen Trirely Gita Simatupang",
+    "id": 1784690783921,
+    "nama": "Rahma Andini Soraya",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 821-5997-0950",
+    "nohp": "+62 831-6113-9346",
     "mapel": "GEOGRAFI",
     "status": "Hadir",
     "jam": "10.26",
     "tgl": "22/7/2026",
-    "petugas": "Rivana"
+    "petugas": "Razqa"
+  },
+  {
+    "id": 1784690779209,
+    "nama": "Aimatul Chaira Syah",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 812-7709-1148",
+    "mapel": "GEOGRAFI",
+    "status": "Hadir",
+    "jam": "10.26",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
   },
   {
     "id": 1784690773661,
