@@ -1,16 +1,5 @@
 [
   {
-    "id": 1784690696209,
-    "nama": "Rahmad Ghatfan",
-    "kelas": "X.1 DIGITAL",
-    "nohp": "+62 857-6330-4596",
-    "mapel": "GEOGRAFI",
-    "status": "Hadir",
-    "jam": "10.24",
-    "tgl": "22/7/2026",
-    "petugas": "Razqa"
-  },
-  {
     "id": 1784690689446,
     "nama": "Aulia Anisa Putri",
     "kelas": "X.1 DIGITAL",
@@ -374,15 +363,15 @@
     "petugas": "Khaira"
   },
   {
-    "id": 1784686009302,
+    "id": 1784690699712,
     "nama": "Arum Mustifa",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 831-8751-2604",
     "mapel": "B. INDONESIA",
     "status": "Hadir",
-    "jam": "09.07",
+    "jam": "10.24",
     "tgl": "22/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Syauqi"
   },
   {
     "id": 1784685598825,
