@@ -1,6 +1,17 @@
 [
   {
-    "id": 1784685735260,
+    "id": 1784685737447,
+    "nama": "Aimatul Chaira Syah",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 812-7709-1148",
+    "mapel": "B. INDONESIA",
+    "status": "Hadir",
+    "jam": "09.02",
+    "tgl": "22/7/2026",
+    "petugas": "Syauqi"
+  },
+  {
+    "id": 1784685731036,
     "nama": "Sabrina Arif Rayyani",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 853-5501-9199",
