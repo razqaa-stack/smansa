@@ -1,5 +1,16 @@
 [
   {
+    "id": 1784701803702,
+    "nama": "Aimatul Chaira Syah",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 812-7709-1148",
+    "mapel": "SENI BUDAYA",
+    "status": "Hadir",
+    "jam": "13.30",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
+  },
+  {
     "id": 1784701799010,
     "nama": "Atika Najwa Ikhwani",
     "kelas": "X.1 DIGITAL",
@@ -88,15 +99,15 @@
     "petugas": "Razqa"
   },
   {
-    "id": 1784701803403,
+    "id": 1784701760419,
     "nama": "Sabrina Arif Rayyani",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 853-5501-9199",
     "mapel": "SENI BUDAYA",
     "status": "Hadir",
-    "jam": "13.30",
+    "jam": "13.29",
     "tgl": "22/7/2026",
-    "petugas": "Syauqi"
+    "petugas": "Rivana"
   },
   {
     "id": 1784701756851,
