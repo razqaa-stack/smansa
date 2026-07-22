@@ -1,6 +1,17 @@
 [
   {
-    "id": 1784690740712,
+    "id": 1784690732269,
+    "nama": "Ahmad Syauqi Awinza",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 838-6775-9688",
+    "mapel": "GEOGRAFI",
+    "status": "Hadir",
+    "jam": "10.25",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
+  },
+  {
+    "id": 1784690725607,
     "nama": "Rakha Dwinanda Putra",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 821-7152-8540",
@@ -8,32 +19,10 @@
     "status": "Hadir",
     "jam": "10.25",
     "tgl": "22/7/2026",
-    "petugas": "Khaira"
+    "petugas": "Razqa"
   },
   {
-    "id": 1784690727688,
-    "nama": "Zahwa Alya putri",
-    "kelas": "X.1 DIGITAL",
-    "nohp": "+62 853-2000-7930",
-    "mapel": "GEOGRAFI",
-    "status": "Hadir",
-    "jam": "10.25",
-    "tgl": "22/7/2026",
-    "petugas": "Khaira"
-  },
-  {
-    "id": 1784690722072,
-    "nama": "Alicia Queenara",
-    "kelas": "X.1 DIGITAL",
-    "nohp": "+62 821-7089-9030",
-    "mapel": "GEOGRAFI",
-    "status": "Hadir",
-    "jam": "10.25",
-    "tgl": "22/7/2026",
-    "petugas": "Khaira"
-  },
-  {
-    "id": 1784690736816,
+    "id": 1784690718415,
     "nama": "Darrell Yusuf Athila",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 812-6810-404",
@@ -41,7 +30,7 @@
     "status": "Hadir",
     "jam": "10.25",
     "tgl": "22/7/2026",
-    "petugas": "Khaira"
+    "petugas": "Razqa"
   },
   {
     "id": 1784690712001,
