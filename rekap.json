@@ -1,5 +1,27 @@
 [
   {
+    "id": 1784701793850,
+    "nama": "Rahma Andini Soraya",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 831-6113-9346",
+    "mapel": "SENI BUDAYA",
+    "status": "Hadir",
+    "jam": "13.29",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
+  },
+  {
+    "id": 1784701789913,
+    "nama": "Jihan Afifah",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 895-3623-89300",
+    "mapel": "SENI BUDAYA",
+    "status": "Hadir",
+    "jam": "13.29",
+    "tgl": "22/7/2026",
+    "petugas": "Razqa"
+  },
+  {
     "id": 1784701785333,
     "nama": "Karen Trirely Gita Simatupang",
     "kelas": "X.1 DIGITAL",
@@ -11,7 +33,7 @@
     "petugas": "Razqa"
   },
   {
-    "id": 1784701792610,
+    "id": 1784701782818,
     "nama": "Lailatul Salma",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 853-5501-8366",
@@ -19,7 +41,7 @@
     "status": "Hadir",
     "jam": "13.29",
     "tgl": "22/7/2026",
-    "petugas": "Syauqi"
+    "petugas": "Rivana"
   },
   {
     "id": 1784701777825,
