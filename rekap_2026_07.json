@@ -1,14 +1,25 @@
 [
   {
-    "id": 1784777197995,
-    "nama": "Zahwa Alya putri",
+    "id": 1784777207104,
+    "nama": "Muhammad Sazlan Shah",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 853-2000-7930",
+    "nohp": "+62 895-3289-63535",
     "mapel": "SOSIOLOGI",
     "status": "Hadir",
     "jam": "10.26",
     "tgl": "23/7/2026",
-    "petugas": "Syauqi"
+    "petugas": "Razqa"
+  },
+  {
+    "id": 1784777199836,
+    "nama": "Rahma Andini Soraya",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 831-6113-9346",
+    "mapel": "SOSIOLOGI",
+    "status": "Hadir",
+    "jam": "10.26",
+    "tgl": "23/7/2026",
+    "petugas": "Razqa"
   },
   {
     "id": 1784777190029,
@@ -55,15 +66,15 @@
     "petugas": "Razqa"
   },
   {
-    "id": 1784777205551,
+    "id": 1784777156464,
     "nama": "Alicia Queenara",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 821-7089-9030",
     "mapel": "SOSIOLOGI",
     "status": "Hadir",
-    "jam": "10.26",
+    "jam": "10.25",
     "tgl": "23/7/2026",
-    "petugas": "Syauqi"
+    "petugas": "Razqa"
   },
   {
     "id": 1784777143891,
