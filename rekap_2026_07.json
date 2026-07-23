@@ -1,14 +1,25 @@
 [
   {
-    "id": 1784774978897,
-    "nama": "Fabyola Safitri",
+    "id": 1784774985262,
+    "nama": "Jihan Afifah",
     "kelas": "X.1 DIGITAL",
-    "nohp": "+62 878-1154-6321",
+    "nohp": "+62 895-3623-89300",
     "mapel": "MINANGKABAU",
     "status": "Hadir",
     "jam": "09.49",
     "tgl": "23/7/2026",
-    "petugas": "Razqa"
+    "petugas": "Rivana"
+  },
+  {
+    "id": 1784774977333,
+    "nama": "Karen Trirely Gita Simatupang",
+    "kelas": "X.1 DIGITAL",
+    "nohp": "+62 821-5997-0950",
+    "mapel": "MINANGKABAU",
+    "status": "Hadir",
+    "jam": "09.49",
+    "tgl": "23/7/2026",
+    "petugas": "Rivana"
   },
   {
     "id": 1784774957679,
@@ -22,7 +33,7 @@
     "petugas": "Rivana"
   },
   {
-    "id": 1784774975676,
+    "id": 1784774951144,
     "nama": "Sabrina Arif Rayyani",
     "kelas": "X.1 DIGITAL",
     "nohp": "+62 853-5501-9199",
