@@ -18,5 +18,15 @@
     "total": 10,
     "skor": 100,
     "tanggal": "30/7/2026"
+  },
+  {
+    "id": "rank-1785376991847",
+    "nama": "Upi",
+    "judulSoal": "Quiz random",
+    "pembuatSoal": "Upi",
+    "bener": 5,
+    "total": 5,
+    "skor": 100,
+    "tanggal": "30/7/2026"
   }
 ]
