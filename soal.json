@@ -286,5 +286,112 @@
         "jawaban": "D"
       }
     ]
+  },
+  {
+    "id": "quiz-1785377594066",
+    "pembuat": "Alicia",
+    "judul": "Besaran dan pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "Yang termasuk besaran pokok adalah",
+        "pilihan": {
+          "A": "Gaya",
+          "B": "Massa",
+          "C": "Luas",
+          "D": "Kecepatan"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Satuan SI untuk panjang adalah",
+        "pilihan": {
+          "A": "Gram",
+          "B": "Meter",
+          "C": "Sekon",
+          "D": "Liter"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Besaran turunan di bawah ini adalah",
+        "pilihan": {
+          "A": "Waktu",
+          "B": "Suhu",
+          "C": "Massa",
+          "D": "Kecepatan"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Satuan SI untuk massa adalah",
+        "pilihan": {
+          "A": "Gram",
+          "B": "Kilogram",
+          "C": "Ons",
+          "D": "Ton"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Berikut yang merupakan pasangan besaran dan satuan SI yang benar adalah",
+        "pilihan": {
+          "A": "Waktu – jam",
+          "B": "Massa – kilogram",
+          "C": "Panjang – inci",
+          "D": "Suhu – Fahrenheit"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Yang termasuk besaran pokok adalah",
+        "pilihan": {
+          "A": "Luas",
+          "B": "Volume",
+          "C": "Intensitas cahaya",
+          "D": "Gaya"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Satuan SI untuk kuat arus listrik adalah",
+        "pilihan": {
+          "A": "Volt",
+          "B": "Watt",
+          "C": "Ampere",
+          "D": "Ohm"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Berikut ini yang bukan merupakan satuan SI adalah",
+        "pilihan": {
+          "A": "Meter",
+          "B": "Kilogram",
+          "C": "Sekon",
+          "D": "Mil"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Satuan SI untuk suhu adalah",
+        "pilihan": {
+          "A": "Celsius",
+          "B": "Fahrenheit",
+          "C": "Kelvin",
+          "D": "Reamur"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Besaran yang memiliki satuan SI kg·m/s² adalah",
+        "pilihan": {
+          "A": "Usaha",
+          "B": "Tekanan",
+          "C": "Gaya",
+          "D": "Daya"
+        },
+        "jawaban": "C"
+      }
+    ]
   }
 ]
