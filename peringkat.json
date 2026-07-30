@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "rank-1785376057611",
+    "nama": "nama orang",
+    "judulSoal": "tester",
+    "pembuatSoal": "testt",
+    "bener": 1,
+    "total": 1,
+    "skor": 100,
+    "tanggal": "30/7/2026"
+  }
+]
