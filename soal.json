@@ -179,5 +179,112 @@
         "jawaban": "D"
       }
     ]
+  },
+  {
+    "id": "quiz-1785377446535",
+    "pembuat": "alfa",
+    "judul": "materi besaran dan pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "berikut dibawah ini yang merupakan besaran turunan adalah",
+        "pilihan": {
+          "A": "massa",
+          "B": "panjang",
+          "C": "volume",
+          "D": "waktu"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "berikut dibawah ini yang merupakan pengertian pokok",
+        "pilihan": {
+          "A": "suatu hasil yang tidak tetap",
+          "B": "suatu hasil sementara",
+          "C": "suatu hasil yang telah ditetapkan",
+          "D": "suatu hasil yang jumlahnya ganjil"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "dibawah ini yang merupakan dimensi intensitas cahaya adalah",
+        "pilihan": {
+          "A": "[J]",
+          "B": "[L]",
+          "C": "[T]",
+          "D": "[N]"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "satuan SI  untuk massa adalah",
+        "pilihan": {
+          "A": "ons (ons)",
+          "B": "garam (g)",
+          "C": "suhu (k)",
+          "D": "kilogram (kg)"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "satuan SI untuk kuat arus listrik adalah",
+        "pilihan": {
+          "A": "ohm",
+          "B": "watt (W)",
+          "C": "Volt (V)",
+          "D": "ampere (A)"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "berikut ini yang bukan merupakan alat pengukuran panjang",
+        "pilihan": {
+          "A": "penggaris",
+          "B": "neraca",
+          "C": "jangka sorong",
+          "D": "mikrometer sekrup"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "dibawah ini yang merupakan dimensi panjang adalah",
+        "pilihan": {
+          "A": "[L]",
+          "B": "[T]",
+          "C": "[N]",
+          "D": "[J]"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "rumus percepatan dibawah ini yang benar adalah",
+        "pilihan": {
+          "A": "massa × percepatan",
+          "B": "gaya × perpindahan",
+          "C": "kecepatan/waktu",
+          "D": "kecepatan/usaha"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "lambang F merupakan simbol",
+        "pilihan": {
+          "A": "luas",
+          "B": "usaha",
+          "C": "gaya",
+          "D": "percepatan"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "hasil dari 24 A = ......... nA adalah",
+        "pilihan": {
+          "A": "2,4 × 10⁵",
+          "B": "2,4 × 10⁹",
+          "C": "2,4 × 10⁶",
+          "D": "2,4 × 10¹⁰"
+        },
+        "jawaban": "D"
+      }
+    ]
   }
 ]
