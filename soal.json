@@ -500,5 +500,112 @@
         "jawaban": "D"
       }
     ]
+  },
+  {
+    "id": "quiz-1785377685987",
+    "pembuat": "MUHAMMAD AL AKRAM BOER",
+    "judul": "besaran dan pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "satuan international untuk massa adalah",
+        "pilihan": {
+          "A": "ampere",
+          "B": "kilogram",
+          "C": "ton",
+          "D": "ons"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "yang termasuk besaran pokok adalah..",
+        "pilihan": {
+          "A": "volume",
+          "B": "kecepatan",
+          "C": "waktu",
+          "D": "gaya"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "alat pengukur diameter koin adalah",
+        "pilihan": {
+          "A": "mistar",
+          "B": "neraca",
+          "C": "jangka sorong",
+          "D": "stopwatch"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "satuan untuk besaran suhu adalah",
+        "pilihan": {
+          "A": "kelvin",
+          "B": "celcius",
+          "C": "joule",
+          "D": "watt"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "dimensi besaran panjang adalah",
+        "pilihan": {
+          "A": "[M]",
+          "B": "[L]",
+          "C": "[T]",
+          "D": "[I]"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "besaran turunan dari panjang adalah",
+        "pilihan": {
+          "A": "massa",
+          "B": "waktu",
+          "C": "luas",
+          "D": "suhu"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "alat ukur paling teliti adalah",
+        "pilihan": {
+          "A": "penggaris",
+          "B": "meteran gulung",
+          "C": "jangka sorong",
+          "D": "mikrometer sekrup"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "besaran yg hanya punya nilai adalah..",
+        "pilihan": {
+          "A": "vektor",
+          "B": "skalar",
+          "C": "pokok",
+          "D": "turunan"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "alat ukur massa adalah",
+        "pilihan": {
+          "A": "termometer",
+          "B": "neraca",
+          "C": "amperemeter",
+          "D": "mikrometer"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "satuan kuat arus listrik adalah",
+        "pilihan": {
+          "A": "volt",
+          "B": "ohm",
+          "C": "ampere",
+          "D": "watt"
+        },
+        "jawaban": "C"
+      }
+    ]
   }
 ]
