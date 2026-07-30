@@ -714,5 +714,112 @@
         "jawaban": "B"
       }
     ]
+  },
+  {
+    "id": "quiz-1785377835256",
+    "pembuat": "thifah",
+    "judul": "besaran dan pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "sesuatu yang bisa diukur, dinyatakan dengan angka dan memiliki satuan tertentu...",
+        "pilihan": {
+          "A": "Pengukuran",
+          "B": "Besaran",
+          "C": "Dimensi",
+          "D": "Satuan"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Yang termasuk besaran pokok adalah ....",
+        "pilihan": {
+          "A": "Kecepatan",
+          "B": "Gaya",
+          "C": "Massa",
+          "D": "Luas"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Satuan SI dari besaran panjang adalah",
+        "pilihan": {
+          "A": "Kilogram (kg)",
+          "B": "Meter (m)",
+          "C": "Sekon (s)",
+          "D": "Kelvin (k)"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Satuan SI dari besaran suhu adalah",
+        "pilihan": {
+          "A": "Celsius (°C)",
+          "B": "Fahrenheit (°F)",
+          "C": "Kelvin (K)",
+          "D": "Reamur (°R)"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Besaran pokok yang satuan SI-nya candela (cd) adalah",
+        "pilihan": {
+          "A": "Intensitas cahaya",
+          "B": "Suhu",
+          "C": "Massa",
+          "D": "panjang"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Sebuah taman berbentuk persegi panjang memiliki panjang 15 m dan lebar 6 m. Luas taman tersebut adalah",
+        "pilihan": {
+          "A": "21 m²",
+          "B": "90 m²",
+          "C": "75 m²",
+          "D": "120 m²"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Seorang pekerja menarik gerobak dengan gaya 25 N sejauh 8 m. Besar usaha yang dilakukan adalah",
+        "pilihan": {
+          "A": "100 J",
+          "B": "150 J",
+          "C": "200 J",
+          "D": "250 J"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "25 dA = ....... pA",
+        "pilihan": {
+          "A": "2,5 × 10^14",
+          "B": "2,5 ×10^11",
+          "C": "3,5 × 11^9",
+          "D": "3,5 x 11^12"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Sebuah alat listrik melakukan usaha sebesar 900 J dalam waktu 30 s. Besar dayanya adalah",
+        "pilihan": {
+          "A": "20 W",
+          "B": "25 W",
+          "C": "30 W",
+          "D": "35 W"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Seorang pelari menempuh jarak 150 meter dalam waktu 15 sekon. Kecepatan pelari tersebut adalah",
+        "pilihan": {
+          "A": "10 m/s",
+          "B": "5 m/s",
+          "C": "15 m/s",
+          "D": "20 m/s"
+        },
+        "jawaban": "A"
+      }
+    ]
   }
 ]
