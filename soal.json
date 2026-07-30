@@ -15,5 +15,112 @@
         "jawaban": "A"
       }
     ]
+  },
+  {
+    "id": "quiz-1785376369038",
+    "pembuat": "Zahwa",
+    "judul": "Kuis fisika besaran dan pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "Yang dimaksud dengan besaran dalam fisika adalah",
+        "pilihan": {
+          "A": "Alat untuk mengukur benda",
+          "B": "Sesuatu yang dapat diukur dan memiliki nilai serta satuan",
+          "C": "Hasil pengamatan tanpa satuan",
+          "D": "Benda yang memiliki massa"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Manakah yang termasuk besaran pokok?",
+        "pilihan": {
+          "A": "Gaya",
+          "B": "Luas",
+          "C": "Massa",
+          "D": "Kecepatan"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Satuan SI untuk besaran panjang adalah",
+        "pilihan": {
+          "A": "Gram (g)",
+          "B": "Meter (m)",
+          "C": "Sekon (s)",
+          "D": "Newton (n)"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Besaran yang termasuk besaran turunan adalah",
+        "pilihan": {
+          "A": "Waktu",
+          "B": "Suhu",
+          "C": "Massa",
+          "D": "Kecepatan"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Lebar meja adalah 80 cm. Jika diubah ke dalam meter menjadi",
+        "pilihan": {
+          "A": "0,08 m",
+          "B": "8 m",
+          "C": "0,8 m",
+          "D": "80 m"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Alat yang paling tepat untuk mengukur diameter kawat adalah",
+        "pilihan": {
+          "A": "Penggaris",
+          "B": "Meteran",
+          "C": "Mikrometer sekrup",
+          "D": "Stopwatch"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Alat yang digunakan untuk mengukur waktu lari 100 meter adalah",
+        "pilihan": {
+          "A": "Neraca",
+          "B": "Stopwatch",
+          "C": "Jangka sorong",
+          "D": "Termometer"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Sebuah balok memiliki panjang 20 cm, lebar 10 cm, dan tinggi 5 cm. Volume balok tersebut adalah",
+        "pilihan": {
+          "A": "500 cm³",
+          "B": "1.000 cm³",
+          "C": "2.000 cm³",
+          "D": "3.000 cm³"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Besaran yang diperoleh dari hasil pengukuran dua atau lebih besaran pokok disebut",
+        "pilihan": {
+          "A": "Besaran pokok",
+          "B": "Besaran turunan",
+          "C": "Besaran tetap",
+          "D": "Besaran standar"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Alat ukur yang paling tepat untuk mengukur ketebalan selembar koin adalah",
+        "pilihan": {
+          "A": "Penggaris",
+          "B": "Meteran",
+          "C": "Mikrometer sekrup",
+          "D": "Neraca"
+        },
+        "jawaban": "C"
+      }
+    ]
   }
 ]
