@@ -821,5 +821,112 @@
         "jawaban": "A"
       }
     ]
+  },
+  {
+    "id": "quiz-1785378533489",
+    "pembuat": "Aimatul Chaira Syah",
+    "judul": "Fisika",
+    "soalList": [
+      {
+        "pertanyaan": "segala sesuatu  yang dapat di ukur dinyatakan dengan angka dan memiliki satuan di sebut?",
+        "pilihan": {
+          "A": "tinggi",
+          "B": "panjang",
+          "C": "besaran",
+          "D": "kilo gram"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "satuan SI untuk massa adalah?",
+        "pilihan": {
+          "A": "meter",
+          "B": "kilo gram",
+          "C": "kalvin",
+          "D": "second"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "besaran turunan hasil kali panjang dan lebar adalah?",
+        "pilihan": {
+          "A": "keliling",
+          "B": "volume",
+          "C": "sisi",
+          "D": "luas"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "satuan  si untuk panjang adalah",
+        "pilihan": {
+          "A": "meter",
+          "B": "candela",
+          "C": "mol",
+          "D": "kalvin"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "bentuk penulisan bilangan menggunakan a×10n adalah",
+        "pilihan": {
+          "A": "notasi sosial",
+          "B": "notasi ilmiah",
+          "C": "notasi keseluruhan",
+          "D": "notasi ekonomi"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "satuan si untuk suhu",
+        "pilihan": {
+          "A": "kelvin",
+          "B": "ampere",
+          "C": "candela",
+          "D": "mol"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "besaran pokok dengan satuan ampere adalah",
+        "pilihan": {
+          "A": "waktu",
+          "B": "suhu",
+          "C": "massa",
+          "D": "kuat arus listrik"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "satuan si untuk jumlah zat adalah?",
+        "pilihan": {
+          "A": "meter",
+          "B": "kilogram",
+          "C": "mol",
+          "D": "ampere"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "satuan si untuk intensitas cahaya",
+        "pilihan": {
+          "A": "kilogram",
+          "B": "sekon",
+          "C": "candela",
+          "D": "meter"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "lambang dimensi untuk waktu?",
+        "pilihan": {
+          "A": "T",
+          "B": "J",
+          "C": "N",
+          "D": "L"
+        },
+        "jawaban": "A"
+      }
+    ]
   }
 ]
