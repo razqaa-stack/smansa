@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "quiz-1785375991029",
+    "pembuat": "testt",
+    "judul": "tester",
+    "soalList": [
+      {
+        "pertanyaan": "hhhh",
+        "pilihan": {
+          "A": "jjj",
+          "B": "hhhhkk",
+          "C": "kkk",
+          "D": "hhh"
+        },
+        "jawaban": "A"
+      }
+    ]
+  }
+]
