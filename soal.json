@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": "quiz-1785374658812",
+    "pembuat": "razqaa",
+    "judul": "tekateki - fisika",
+    "soalList": [
+      {
+        "pertanyaan": "apa dimensi dari intensitas cahaya?",
+        "jawaban": "J"
+      },
+      {
+        "pertanyaan": "apa satuan dari waktu?",
+        "jawaban": "S"
+      },
+      {
+        "pertanyaan": "apa satuan dari jumlah zat",
+        "jawaban": "MOL"
+      },
+      {
+        "pertanyaan": "kalo satuan dari suhu apaa?",
+        "jawaban": "K"
+      },
+      {
+        "pertanyaan": "berapakah dari 30 A ke NA",
+        "jawaban": "3,0 X 10¹⁰ NA"
+      },
+      {
+        "pertanyaan": "apa rumus volume?",
+        "jawaban": "P X L X T"
+      }
+    ]
+  }
+]
