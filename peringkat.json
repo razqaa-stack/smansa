@@ -58,5 +58,15 @@
     "total": 10,
     "skor": 100,
     "tanggal": "30/7/2026"
+  },
+  {
+    "id": "rank-1785377094730",
+    "nama": "gatau",
+    "judulSoal": "Quiz random",
+    "pembuatSoal": "Upi",
+    "bener": 2,
+    "total": 5,
+    "skor": 40,
+    "tanggal": "30/7/2026"
   }
 ]
