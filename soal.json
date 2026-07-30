@@ -1,22 +1,5 @@
 [
   {
-    "id": "quiz-1785375991029",
-    "pembuat": "testt",
-    "judul": "tester",
-    "soalList": [
-      {
-        "pertanyaan": "hhhh",
-        "pilihan": {
-          "A": "jjj",
-          "B": "hhhhkk",
-          "C": "kkk",
-          "D": "hhh"
-        },
-        "jawaban": "A"
-      }
-    ]
-  },
-  {
     "id": "quiz-1785376369038",
     "pembuat": "Zahwa",
     "judul": "Kuis fisika besaran dan pengukuran",
@@ -120,63 +103,6 @@
           "D": "Neraca"
         },
         "jawaban": "C"
-      }
-    ]
-  },
-  {
-    "id": "quiz-1785376958110",
-    "pembuat": "Upi",
-    "judul": "Quiz random",
-    "soalList": [
-      {
-        "pertanyaan": "Jika Aga pergi dari rumah ke warung,dan balik lagi kerumah. Apakah aga melakukan perpindahan?",
-        "pilihan": {
-          "A": "Iya",
-          "B": "Tidak",
-          "C": "Aga ganteng",
-          "D": "Gak tahu"
-        },
-        "jawaban": "B"
-      },
-      {
-        "pertanyaan": "Apa arti dari \"just friend\"?",
-        "pilihan": {
-          "A": "Kayak pacaran,tapi enggak",
-          "B": "Cuma tetangga",
-          "C": "Cuma teman",
-          "D": "Cuma dia"
-        },
-        "jawaban": "C"
-      },
-      {
-        "pertanyaan": "Apa arti dari \"liar\"?",
-        "pilihan": {
-          "A": "Pembohong",
-          "B": "Penari",
-          "C": "Penyanyi",
-          "D": "Penyintas"
-        },
-        "jawaban": "A"
-      },
-      {
-        "pertanyaan": "Apa hasil dari 10 pangkat 3",
-        "pilihan": {
-          "A": "1000",
-          "B": "500",
-          "C": "100",
-          "D": "600"
-        },
-        "jawaban": "A"
-      },
-      {
-        "pertanyaan": "Siapakah guru fisika X.1 ?",
-        "pilihan": {
-          "A": "Buk Tiva",
-          "B": "Buk Yarlen",
-          "C": "Buk Ori",
-          "D": "Buk Wina"
-        },
-        "jawaban": "D"
       }
     ]
   },
@@ -1036,82 +962,7 @@
       }
     ]
   },
-  {
-    "id": "quiz-1785379867996",
-    "tipe": "TTS",
-    "pembuat": "razqaa",
-    "judul": "TTS FISIKA",
-    "soalList": [
-      {
-        "kata": "VEKTOR",
-        "petunjuk": "Besaran yang memiliki nilai dan arah (contoh: kecepatan dan gaya).",
-        "arah": "MENDATAR",
-        "row": 2,
-        "col": 1
-      },
-      {
-        "kata": "HUKUM",
-        "petunjuk": "Aturan/prinsip alam yang teruji secara ilmiah, contohnya aturan Newton.",
-        "arah": "MENDATAR",
-        "row": 4,
-        "col": 6
-      },
-      {
-        "kata": "PERCEPATAN",
-        "petunjuk": "Perubahan kecepatan benda tiap satuan waktu (a = \\Delta v / \\Delta t).",
-        "arah": "MENDATAR",
-        "row": 6,
-        "col": 1
-      },
-      {
-        "kata": "MASSA",
-        "petunjuk": "Ukuran kelembaman benda dengan satuan internasional Kilogram.",
-        "arah": "MENDATAR",
-        "row": 8,
-        "col": 2
-      },
-      {
-        "kata": "GAYA",
-        "petunjuk": "Tarikan atau dorongan yang menyebabkan benda berakselerasi.",
-        "arah": "MENDATAR",
-        "row": 10,
-        "col": 4
-      },
-      {
-        "kata": "SKALAR",
-        "petunjuk": "Besaran yang hanya memiliki nilai/besar saja tanpa arah (contoh: massa).",
-        "arah": "MENURUN",
-        "row": 1,
-        "col": 3
-      },
-      {
-        "kata": "INERSIA",
-        "petunjuk": "Sifat benda yang cenderung mempertahankan keadaan diam atau geraknya.",
-        "arah": "MENURUN",
-        "row": 2,
-        "col": 4
-      },
-      {
-        "kata": "ARAH",
-        "petunjuk": "Komponen utama penentu besaran vektor selain nilai.",
-        "arah": "MENURUN",
-        "row": 1,
-        "col": 6
-      },
-      {
-        "kata": "NEWTON",
-        "petunjuk": "Satuan SI untuk menyatakan besarnya gaya.",
-        "arah": "MENURUN",
-        "row": 3,
-        "col": 9
-      },
-      {
-        "kata": "DIMENSI",
-        "petunjuk": "Cara suatu besaran turunan tersusun dari besaran-besaran pokok.",
-        "arah": "MENURUN",
-        "row": 1,
-        "col": 10
-      }
+
     ]
   }
 ]
