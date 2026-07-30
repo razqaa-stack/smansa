@@ -122,5 +122,62 @@
         "jawaban": "C"
       }
     ]
+  },
+  {
+    "id": "quiz-1785376958110",
+    "pembuat": "Upi",
+    "judul": "Quiz random",
+    "soalList": [
+      {
+        "pertanyaan": "Jika Aga pergi dari rumah ke warung,dan balik lagi kerumah. Apakah aga melakukan perpindahan?",
+        "pilihan": {
+          "A": "Iya",
+          "B": "Tidak",
+          "C": "Aga ganteng",
+          "D": "Gak tahu"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Apa arti dari \"just friend\"?",
+        "pilihan": {
+          "A": "Kayak pacaran,tapi enggak",
+          "B": "Cuma tetangga",
+          "C": "Cuma teman",
+          "D": "Cuma dia"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Apa arti dari \"liar\"?",
+        "pilihan": {
+          "A": "Pembohong",
+          "B": "Penari",
+          "C": "Penyanyi",
+          "D": "Penyintas"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Apa hasil dari 10 pangkat 3",
+        "pilihan": {
+          "A": "1000",
+          "B": "500",
+          "C": "100",
+          "D": "600"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Siapakah guru fisika X.1 ?",
+        "pilihan": {
+          "A": "Buk Tiva",
+          "B": "Buk Yarlen",
+          "C": "Buk Ori",
+          "D": "Buk Wina"
+        },
+        "jawaban": "D"
+      }
+    ]
   }
 ]
