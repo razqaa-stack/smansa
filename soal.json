@@ -607,5 +607,112 @@
         "jawaban": "C"
       }
     ]
+  },
+  {
+    "id": "quiz-1785377828791",
+    "pembuat": "alika",
+    "judul": "besaran & pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "Berikut yang termasuk besaran pokok adalah...",
+        "pilihan": {
+          "A": "Luas",
+          "B": "Kecepatan",
+          "C": "Gaya",
+          "D": "Massa"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Satuan SI untuk besaran waktu adalah...",
+        "pilihan": {
+          "A": "Meter",
+          "B": "Joule",
+          "C": "Sekon",
+          "D": "Jam"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Di bawah ini yang merupakan besaran turunan adalah...",
+        "pilihan": {
+          "A": "Gaya",
+          "B": "Suhu",
+          "C": "Panjang",
+          "D": "Massa"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Alat ukur yang paling tepat untuk mengukur diameter luar sebuah kelereng adalah...",
+        "pilihan": {
+          "A": "penggaris",
+          "B": "Jangka sorong",
+          "C": "meteran",
+          "D": "termometer"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Tujuan utama melakukan pengukuran dalam fisika adalah...",
+        "pilihan": {
+          "A": "mengubah satuan SI",
+          "B": "Menghilangkan semua kesalahan",
+          "C": "Mengubah besaran menjadi satuan",
+          "D": "Mengetahui nilai suatu besaran"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Besaran yang satuannya diturunkan dari besaran pokok disebut...",
+        "pilihan": {
+          "A": "Besaran turunan",
+          "B": "Besaran pokok",
+          "C": "Besaran skalar",
+          "D": "Besaran vektor"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Pasangan besaran pokok dan satuan SI yang benar adalah...",
+        "pilihan": {
+          "A": "Luas – meter persegi (m²)",
+          "B": "Gaya – newton (N)",
+          "C": "Kecepatan – meter (m)",
+          "D": "Massa – kilogram (kg)"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "22 dam = ... mm",
+        "pilihan": {
+          "A": "22 x 10^8",
+          "B": "22 x 10^3",
+          "C": "22 x 10^4",
+          "D": "22 x 10^9"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "11 Ts = ... Ms",
+        "pilihan": {
+          "A": "11 x 10^7",
+          "B": "11 x 10^9",
+          "C": "11 x 10^8",
+          "D": "11 x 10^6"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "9 Km = ... m",
+        "pilihan": {
+          "A": "9 x 10^5",
+          "B": "9 x 10^3",
+          "C": "9 x 10^8",
+          "D": "9 x 10^7"
+        },
+        "jawaban": "B"
+      }
+    ]
   }
 ]
