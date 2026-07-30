@@ -1035,5 +1035,83 @@
         "jawaban": "A"
       }
     ]
+  },
+  {
+    "id": "quiz-1785379867996",
+    "tipe": "TTS",
+    "pembuat": "razqaa",
+    "judul": "TTS FISIKA",
+    "soalList": [
+      {
+        "kata": "VEKTOR",
+        "petunjuk": "Besaran yang memiliki nilai dan arah (contoh: kecepatan dan gaya).",
+        "arah": "MENDATAR",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "kata": "HUKUM",
+        "petunjuk": "Aturan/prinsip alam yang teruji secara ilmiah, contohnya aturan Newton.",
+        "arah": "MENDATAR",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "kata": "PERCEPATAN",
+        "petunjuk": "Perubahan kecepatan benda tiap satuan waktu (a = \\Delta v / \\Delta t).",
+        "arah": "MENDATAR",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "kata": "MASSA",
+        "petunjuk": "Ukuran kelembaman benda dengan satuan internasional Kilogram.",
+        "arah": "MENDATAR",
+        "row": 8,
+        "col": 2
+      },
+      {
+        "kata": "GAYA",
+        "petunjuk": "Tarikan atau dorongan yang menyebabkan benda berakselerasi.",
+        "arah": "MENDATAR",
+        "row": 10,
+        "col": 4
+      },
+      {
+        "kata": "SKALAR",
+        "petunjuk": "Besaran yang hanya memiliki nilai/besar saja tanpa arah (contoh: massa).",
+        "arah": "MENURUN",
+        "row": 1,
+        "col": 3
+      },
+      {
+        "kata": "INERSIA",
+        "petunjuk": "Sifat benda yang cenderung mempertahankan keadaan diam atau geraknya.",
+        "arah": "MENURUN",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "kata": "ARAH",
+        "petunjuk": "Komponen utama penentu besaran vektor selain nilai.",
+        "arah": "MENURUN",
+        "row": 1,
+        "col": 6
+      },
+      {
+        "kata": "NEWTON",
+        "petunjuk": "Satuan SI untuk menyatakan besarnya gaya.",
+        "arah": "MENURUN",
+        "row": 3,
+        "col": 9
+      },
+      {
+        "kata": "DIMENSI",
+        "petunjuk": "Cara suatu besaran turunan tersusun dari besaran-besaran pokok.",
+        "arah": "MENURUN",
+        "row": 1,
+        "col": 10
+      }
+    ]
   }
 ]
