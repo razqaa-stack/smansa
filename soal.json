@@ -393,5 +393,112 @@
         "jawaban": "C"
       }
     ]
+  },
+  {
+    "id": "quiz-1785377596948",
+    "pembuat": "Khaira",
+    "judul": "TSS Besaran, Satuan, dan Notasi Ilmiah",
+    "soalList": [
+      {
+        "pertanyaan": "Apa yang dimaksud dengan besaran?",
+        "pilihan": {
+          "A": "sesuatu yang dapat diukur dan dapat dinyatakan",
+          "B": "sesuatu yang dapat diukur dan dapat dinyatakan",
+          "C": "sesuatu yang dapat diukur dengan acak",
+          "D": "sesuatu yang dapat diukur dengan satuan bebas"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "berdasarkan satuan , besaran dibedakan menjadi berapa jenis?",
+        "pilihan": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "1"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Besaran yang satuannya sudah ditetapkan yaitu",
+        "pilihan": {
+          "A": "Turunan",
+          "B": "Dimensi",
+          "C": "Pokok",
+          "D": "Tetap"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Satuan pada besaran di tetapkan berdasarkan sistem..",
+        "pilihan": {
+          "A": "Satuan Indonesia",
+          "B": "Satuan internasional",
+          "C": "Satuan global",
+          "D": "Satuan Nasional"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Menyatakan bagaimana cara tersusunnya suatu besaran disebut..",
+        "pilihan": {
+          "A": "besaran turunan",
+          "B": "satuan",
+          "C": "besaran pokok",
+          "D": "dimensi"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "besaran pokok terdiri dari.... besaran",
+        "pilihan": {
+          "A": "7",
+          "B": "8",
+          "C": "9",
+          "D": "10"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "besaran turunan adalah",
+        "pilihan": {
+          "A": "besaran yang satuannya di tetapkan",
+          "B": "besaran yang diturunkan dari besaran pokok",
+          "C": "besaran yang tidak memiliki dimensi",
+          "D": "besaran yang tidak memiliki angka"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "bilangan pokok dari 8x10^4 adalah",
+        "pilihan": {
+          "A": "8",
+          "B": "10",
+          "C": "4",
+          "D": "tidak ada bilangan pokok"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "78 pg ... dag",
+        "pilihan": {
+          "A": "7,8x10^-14",
+          "B": "7,8x10^14",
+          "C": "78x10^-11",
+          "D": "78x10^11"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "25 dA........pA",
+        "pilihan": {
+          "A": "2,5x10^11",
+          "B": "25x10^11",
+          "C": "25x10^14",
+          "D": "2,5x10^14"
+        },
+        "jawaban": "D"
+      }
+    ]
   }
 ]
