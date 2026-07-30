@@ -928,5 +928,112 @@
         "jawaban": "A"
       }
     ]
+  },
+  {
+    "id": "quiz-1785379571924",
+    "pembuat": "Olaa",
+    "judul": "Kuis Fisika materi besaran dan pengukuran",
+    "soalList": [
+      {
+        "pertanyaan": "Ketika kita mengukur panjang meja menggunakan jengkal tangan, hasilnya bisa berbeda-beda antara satu orang dengan orang lainnya. Hal ini terjadi karena jengkal tangan merupakan...",
+        "pilihan": {
+          "A": "Satuan baku",
+          "B": "Satuan Internasional (SI)",
+          "C": "Satuan tidak baku",
+          "D": "Besaran turunan"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Di antara pilihan berikut, kelompok yang semuanya merupakan besaran pokok adalah...",
+        "pilihan": {
+          "A": "Panjang, massa, dan waktu",
+          "B": "Panjang, luas, dan volume",
+          "C": "Kecepatan, suhu, dan kuat arus",
+          "D": "Massa, berat, dan waktu"
+        },
+        "jawaban": "A"
+      },
+      {
+        "pertanyaan": "Mengapa luas ruangan kelas dikategorikan sebagai besaran turunan?",
+        "pilihan": {
+          "A": "Karena nilainya bisa berubah-ubah sesuai bentuk ruangan",
+          "B": "Karena diperoleh dari hasil perkalian besaran pokok panjang",
+          "C": "Karena alat ukur luas belum diciptakan secara baku",
+          "D": "Karena ukurannya selalu lebih besar daripada panjang ruangan"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Sebelum mengukur panjang buku memakai jangka sorong, rahang alat diapitkan sampai rapat tanpa ada benda di dalamnya. Jika jarum/skala tidak menunjukkan angka nol tepat, tindakan apa yang harus dilakukan?",
+        "pilihan": {
+          "A": "Membuang alat tersebut karena sudah rusak total",
+          "B": "Menambahkan angka 0,1 cm pada semua hasil pengukuran akhir",
+          "C": "Menekan alat sekencang mungkin sampai skalanya menunjukkan angka nol",
+          "D": "Mencatat angka pergeserannya untuk dijadikan koreksi pada hasil akhir"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Seorang siswa ingin mengukur tebal selembar kertas HVS. Alat ukur yang paling tepat digunakan agar hasilnya akurat adalah...",
+        "pilihan": {
+          "A": "Mistar kayu",
+          "B": "Jangka sorong",
+          "C": "Meteran gulung (rol meter)",
+          "D": "Mikrometer sekrup"
+        },
+        "jawaban": "D"
+      },
+      {
+        "pertanyaan": "Saat mengukur panjang garis menggunakan mistar biasa, mata kita harus berada tepat tegak lurus di atas skala yang dibaca. Jika posisi mata miring ke kiri atau ke kanan, kesalahan pembacaan ini disebut kesalahan...",
+        "pilihan": {
+          "A": "Kalibrasi",
+          "B": "Paralaks",
+          "C": "Lingkungan",
+          "D": "Acak"
+        },
+        "jawaban": "B"
+      },
+      {
+        "pertanyaan": "Mengapa mengukur berat badan memakai timbangan digital lebih disukai daripada timbangan jarum biasa?",
+        "pilihan": {
+          "A": "Timbangan jarum tidak menggunakan Satuan Internasional",
+          "B": "Timbangan digital bisa mengukur besaran pokok dan besaran turunan sekaligus",
+          "C": "Timbangan digital memiliki ketelitian yang lebih tinggi dan mudah dibaca",
+          "D": "Timbangan digital tidak akan pernah rusak"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Dalam kegiatan pengukuran fisika, suatu pengukuran dikatakan akurat jika...",
+        "pilihan": {
+          "A": "Hasil pembacaannya selalu bernilai angka bulat",
+          "B": "Menggunakan alat ukur yang ukurannya sangat besar",
+          "C": "Hasil pengukurannya sangat dekat dengan nilai yang sebenarnya",
+          "D": "Dilakukan oleh orang yang sudah ahli di laboratorium"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Seorang pelari mengukur waktu tempuhnya menggunakan stopwatch. Alasan utama stopwatch digunakan dalam lomba lari (dibandingkan jam dinding) adalah...",
+        "pilihan": {
+          "A": "Stopwatch dapat mengukur jarak sekaligus waktu pelari",
+          "B": "Jam dinding menggunakan baterai yang cepat habis",
+          "C": "Stopwatch dirancang untuk mengukur interval waktu yang singkat dengan ketelitian tinggi",
+          "D": "Jam dinding tidak memiliki satuan detik"
+        },
+        "jawaban": "C"
+      },
+      {
+        "pertanyaan": "Perhatikan pernyataan berikut: \"Pengukuran adalah kegiatan membandingkan suatu besaran yang diukur dengan...\" Isian yang paling tepat untuk melengkapi kalimat di atas adalah...",
+        "pilihan": {
+          "A": "Besaran sejenis yang ditetapkan sebagai satuan",
+          "B": "Nilai perkiraan pembeli",
+          "C": "Angka nol pada alat ukur",
+          "D": "Rumus fisika yang berlaku"
+        },
+        "jawaban": "A"
+      }
+    ]
   }
 ]
