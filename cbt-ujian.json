@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ujian-1785819281562",
+    "pembuat": "Testerr",
+    "judul": "Kuiz Biologi",
+    "mapel": "Biologi",
+    "kelas": "X.1 Digital",
+    "soalList": [
+      {
+        "tipe": "PG",
+        "pertanyaan": "haahahhaha",
+        "pilihan": {
+          "A": "hehehe",
+          "B": "bbb",
+          "C": "behehe",
+          "D": "nh"
+        },
+        "jawaban": "D"
+      },
+      {
+        "tipe": "PG",
+        "pertanyaan": "hggghhj",
+        "pilihan": {
+          "A": "yygrr",
+          "B": "yyyy",
+          "C": "fffgg",
+          "D": "gggg"
+        },
+        "jawaban": "C"
+      },
+      {
+        "tipe": "PG",
+        "pertanyaan": "yyyuur",
+        "pilihan": {
+          "A": "yhgfr",
+          "B": "tttt",
+          "C": "gguuu",
+          "D": "tyyuu"
+        },
+        "jawaban": "C"
+      },
+      {
+        "tipe": "PG",
+        "pertanyaan": "ggdfghhggg",
+        "pilihan": {
+          "A": "edfgg",
+          "B": "rffgg",
+          "C": "cghu",
+          "D": "tfghhbc"
+        },
+        "jawaban": "A"
+      },
+      {
+        "tipe": "PG",
+        "pertanyaan": "hyvtvtvtv",
+        "pilihan": {
+          "A": "rd4d4f5g5f",
+          "B": "ttggrr",
+          "C": "4d4d4d4d",
+          "D": "ftc5ff4f"
+        },
+        "jawaban": "C"
+      },
+      {
+        "tipe": "PGK",
+        "pertanyaan": "5f5cc4c4c",
+        "pilihan": {
+          "A": "dxrxrcex",
+          "B": "tcrcrc",
+          "C": "dex3xex3x3",
+          "D": "crcrcrc"
+        },
+        "jawaban": [
+          "B",
+          "C"
+        ]
+      },
+      {
+        "tipe": "PGK",
+        "pertanyaan": "djdndnnd",
+        "pilihan": {
+          "A": "vvwhwhwh",
+          "B": "bbehehe",
+          "C": "hvwgehhe",
+          "D": "vbbbb"
+        },
+        "jawaban": [
+          "B",
+          "D"
+        ]
+      },
+      {
+        "tipe": "PGK",
+        "pertanyaan": "vsbsnsn",
+        "pilihan": {
+          "A": "jejejeje",
+          "B": "hehhejeje",
+          "C": "hgshwhwnns",
+          "D": "bebehe"
+        },
+        "jawaban": [
+          "B",
+          "D"
+        ]
+      },
+      {
+        "tipe": "PGK",
+        "pertanyaan": "hshssbbe",
+        "pilihan": {
+          "A": "hehheb",
+          "B": "bbbb",
+          "C": "hbbb",
+          "D": "vv"
+        },
+        "jawaban": [
+          "B",
+          "D"
+        ]
+      },
+      {
+        "tipe": "PGK",
+        "pertanyaan": "bsbsbsbs",
+        "pilihan": {
+          "A": "hehsbs",
+          "B": "bvvvbb",
+          "C": "hbb",
+          "D": "bbcch"
+        },
+        "jawaban": [
+          "B",
+          "D"
+        ]
+      },
+      {
+        "tipe": "BS",
+        "pertanyaan": "dbdbdnsnsn",
+        "jawaban": "BENAR"
+      },
+      {
+        "tipe": "BS",
+        "pertanyaan": "nzznnznznzns",
+        "jawaban": "BENAR"
+      },
+      {
+        "tipe": "BS",
+        "pertanyaan": "hhhhhj",
+        "jawaban": "BENAR"
+      },
+      {
+        "tipe": "BS",
+        "pertanyaan": "dudjsjsj",
+        "jawaban": "SALAH"
+      },
+      {
+        "tipe": "BS",
+        "pertanyaan": "jzsjjss",
+        "jawaban": "SALAH"
+      }
+    ],
+    "dibuat": "4/8/2026, 11.54.41"
+  }
+]
