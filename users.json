@@ -1,223 +1,219 @@
 {
-  "kelases": [
-    "X.1 DIGITAL"
-  ],
-  "siswas": [
+  "metadata": {
+    "kelas": "X.1",
+    "jumlah_siswa": 35,
+    "updated": "2026-08-17T07:54:57.556Z"
+  },
+  "siswa": [
     {
-      "id": 1784540740086,
-      "nama": "Ahmad Syauqi Awinza",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 838-6775-9688"
+      "id": 1786953274811,
+      "nama": "AHMAD SYAUQI AWINZA",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784541162234,
-      "nama": "Aimatul Chaira Syah",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-7709-1148"
+      "id": 1786953274812,
+      "nama": "AIMATUL CHAIRA SYAH",
+      "nohp": "081268514033",
+      "kelas": "X.1"
     },
     {
-      "id": 1784541211654,
-      "nama": "Alfatihatunnisa Brilliant Ghaisani",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 838-7005-4050"
+      "id": 1786953274813,
+      "nama": "ALFATIHATUNNISA BRILIANT GHAISANI",
+      "nohp": "082372757262",
+      "kelas": "X.1"
     },
     {
-      "id": 1784541249515,
-      "nama": "Alicia Queenara",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 821-7089-9030"
+      "id": 1786953274814,
+      "nama": "ALICIA QUEENARA",
+      "nohp": "082288914325",
+      "kelas": "X.1"
     },
     {
-      "id": 1784541576131,
-      "nama": "Alika Kaysha Athalia",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 895-1857-9735"
+      "id": 1786953274815,
+      "nama": "ALIKA KAYSHA ATHALIA",
+      "nohp": "08116681618",
+      "kelas": "X.1"
     },
     {
-      "id": 1784542419250,
-      "nama": "Arum Mustifa",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 831-8751-2604"
+      "id": 1786953274816,
+      "nama": "ARUM MUSFITA",
+      "nohp": "082388124091",
+      "kelas": "X.1"
     },
     {
-      "id": 1784542455014,
-      "nama": "Atika Najwa Ikhwani",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 877-0928-7343"
+      "id": 1786953274817,
+      "nama": "ATIKA NAJWA IKHWANI",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784542515442,
-      "nama": "Aulia Anisa Putri",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 838-2604-8596"
+      "id": 1786953274818,
+      "nama": "AULIA ANISA PUTRI",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544148070,
-      "nama": "Darrell Yusuf Athila",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-6810-404"
+      "id": 1786953274819,
+      "nama": "DARRELL YUSUF ATHILA",
+      "nohp": "081267448486",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544286159,
-      "nama": "Fabyola Safitri",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 878-1154-6321"
+      "id": 1786953274820,
+      "nama": "FABYOLA SAFITRI",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544425364,
-      "nama": "Farel Aufa Deza",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-7607-7612"
+      "id": 1786953274821,
+      "nama": "FAREL AUFA DEZA",
+      "nohp": "08126694427",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544462482,
-      "nama": "Farrel Alvaro Laksamana",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 877-1121-8213"
+      "id": 1786953274822,
+      "nama": "FARREL ALVARO LAKSMANA",
+      "nohp": "085374107182",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544487418,
-      "nama": "Hakam Sadiq Pati",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-6125-8742"
+      "id": 1786953274823,
+      "nama": "HAKAM SADIQ PATI",
+      "nohp": "082360163225",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544542060,
-      "nama": "Jamillatul Lathifah",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 821-7070-4249"
+      "id": 1786953274824,
+      "nama": "JAMILLATUL LATHIFAH",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544575082,
-      "nama": "Jihan Afifah",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 895-3623-89300"
+      "id": 1786953274825,
+      "nama": "JIHAN AFIFAH",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544620149,
-      "nama": "Karen Trirely Gita Simatupang",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 821-5997-0950"
+      "id": 1786953274826,
+      "nama": "KAREN TRIRELY GITA SIMATUPANG",
+      "nohp": "082385287416",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544712288,
-      "nama": "Keisha Raina Rahman",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-7473-4591"
+      "id": 1786953274827,
+      "nama": "KEISHA RAINA RAHMAN",
+      "nohp": "082383790709",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544743588,
-      "nama": "Khaira Sachi Kayana",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 821-7002-0056"
+      "id": 1786953274828,
+      "nama": "KHAIRA SACHI KAYANA",
+      "nohp": "081267490208",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544786361,
-      "nama": "Lailatul Salma",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 853-5501-8366"
+      "id": 1786953274829,
+      "nama": "LAILATUL SALMA",
+      "nohp": "083191158382",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544826834,
-      "nama": "Lakeysha Aura Rezki",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-7555-4776"
+      "id": 1786953274830,
+      "nama": "LAKEYSHA AURA REZKI",
+      "nohp": "08116681706",
+      "kelas": "X.1"
     },
     {
-      "id": 1784544958583,
-      "nama": "Luthfi Karim",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 822-8991-3571"
+      "id": 1786953274831,
+      "nama": "LUTHFI KARIM",
+      "nohp": "085274874720",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545012299,
-      "nama": "Muhammad Al Akram Boer",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 896-7941-8538"
+      "id": 1786953274832,
+      "nama": "MUHAMMAD AL AKRAM BOER",
+      "nohp": "081363294418",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545058405,
-      "nama": "Muhammad Ibnu Syabil",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 813-7884-8072"
+      "id": 1786953274833,
+      "nama": "MUHAMMAD IBNU SABIL",
+      "nohp": "082284307590",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545120726,
-      "nama": "Muhammad Sazlan Shah",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 895-3289-63535"
+      "id": 1786953274834,
+      "nama": "MUHAMMAD SAZLAN SHAH",
+      "nohp": "089531611274",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545178766,
-      "nama": "Nashita Naura",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-7722-0850"
+      "id": 1786953274835,
+      "nama": "NASHITA NAURA",
+      "nohp": "08126727308",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545266205,
-      "nama": "Rahma Andini Soraya",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 831-6113-9346"
+      "id": 1786953274836,
+      "nama": "RAHMA ANDINI SORAYA",
+      "nohp": "085274606073",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545509842,
-      "nama": "Rahmad Ghatfan",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 857-6330-4596"
+      "id": 1786953274837,
+      "nama": "RAHMAD GHATFAN",
+      "nohp": "082283123771",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545572561,
-      "nama": "Rakha Dwinanda Putra",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 821-7152-8540"
+      "id": 1786953274838,
+      "nama": "RAKHA DWINANDA PUTRA",
+      "nohp": "-",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545614497,
-      "nama": "Razqa Fazil Defandryan Zack",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+48 666 666 672"
+      "id": 1786953274839,
+      "nama": "RAZQA FAZIL DEFANDRYAN ZACK",
+      "nohp": "6282210062160",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545669926,
-      "nama": "Rivana Azzahra",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 812-2908-5724"
+      "id": 1786953274840,
+      "nama": "RIVANA AZZAHRA",
+      "nohp": "081229085724",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545711716,
-      "nama": "Sabrina Arif Rayyani",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 853-5501-9199"
+      "id": 1786953274841,
+      "nama": "SABRINA ARIF RAYYANI",
+      "nohp": "081365432192",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545741003,
-      "nama": "Syauqi  Addawi",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 821-7041-8300"
+      "id": 1786953274842,
+      "nama": "SYAUQI ADDAWI",
+      "nohp": "081363317949",
+      "kelas": "X.1"
     },
     {
-      "id": 1784545795860,
-      "nama": "Synneva Adhwaretha",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 813-3442-3333"
+      "id": 1786953274843,
+      "nama": "TAUFIQ MUHAMMAD RAFI",
+      "nohp": "082170212968",
+      "kelas": "X.1"
     },
     {
-      "id": 1784546055268,
-      "nama": "Taufiq Muhammad Rafi",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 895-4025-25533"
+      "id": 1786953274844,
+      "nama": "ZAHWA ALYA PUTRI",
+      "nohp": "08126710599",
+      "kelas": "X.1"
     },
     {
-      "id": 1784546110049,
-      "nama": "Zahwa Alya putri",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 853-2000-7930"
-    },
-    {
-      "id": 1784546166924,
-      "nama": "Zheno Alfares",
-      "kelas": "X.1 DIGITAL",
-      "nohp": "+62 822-8498-3746"
+      "id": 1786953274845,
+      "nama": "ZHENO ALFARES",
+      "nohp": "082284511717",
+      "kelas": "X.1"
     }
   ]
 }
