@@ -1,216 +1,222 @@
 {
   "metadata": {
     "kelas": "X.1",
-    "jumlah_siswa": 35,
-    "updated": "2026-08-17T08:10:25.586Z"
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T08:15:53.664Z"
   },
   "siswa": [
     {
-      "id": 1786954221452,
+      "id": 1786954548864,
       "nama": "AHMAD SYAUQI AWINZA",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221453,
+      "id": 1786954548865,
       "nama": "AIMATUL CHAIRA SYAH",
       "nohp": "081268514033",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221454,
+      "id": 1786954548866,
       "nama": "ALFATIHATUNNISA BRILIANT GHAISANI",
       "nohp": "082372757262",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221455,
+      "id": 1786954548867,
       "nama": "ALICIA QUEENARA",
       "nohp": "082288914325",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221456,
+      "id": 1786954548868,
       "nama": "ALIKA KAYSHA ATHALIA",
       "nohp": "08116681618",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221457,
+      "id": 1786954548869,
       "nama": "ARUM MUSFITA",
       "nohp": "082388124091",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221458,
+      "id": 1786954548870,
       "nama": "ATIKA NAJWA IKHWANI",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221459,
+      "id": 1786954548871,
       "nama": "AULIA ANISA PUTRI",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221460,
+      "id": 1786954548872,
       "nama": "DARRELL YUSUF ATHILA",
       "nohp": "081267448486",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221461,
+      "id": 1786954548873,
       "nama": "FABYOLA SAFITRI",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221462,
+      "id": 1786954548874,
       "nama": "FAREL AUFA DEZA",
       "nohp": "08126694427",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221463,
+      "id": 1786954548875,
       "nama": "FARREL ALVARO LAKSMANA",
       "nohp": "085374107182",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221464,
+      "id": 1786954548876,
       "nama": "HAKAM SADIQ PATI",
       "nohp": "082360163225",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221465,
+      "id": 1786954548877,
       "nama": "JAMILLATUL LATHIFAH",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221466,
+      "id": 1786954548878,
       "nama": "JIHAN AFIFAH",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221467,
+      "id": 1786954548879,
       "nama": "KAREN TRIRELY GITA SIMATUPANG",
       "nohp": "082385287416",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221468,
+      "id": 1786954548880,
       "nama": "KEISHA RAINA RAHMAN",
       "nohp": "082383790709",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221469,
+      "id": 1786954548881,
       "nama": "KHAIRA SACHI KAYANA",
       "nohp": "081267490208",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221470,
+      "id": 1786954548882,
       "nama": "LAILATUL SALMA",
       "nohp": "083191158382",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221471,
+      "id": 1786954548883,
       "nama": "LAKEYSHA AURA REZKI",
       "nohp": "08116681706",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221472,
+      "id": 1786954548884,
       "nama": "LUTHFI KARIM",
       "nohp": "085274874720",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221473,
+      "id": 1786954548885,
       "nama": "MUHAMMAD AL AKRAM BOER",
       "nohp": "081363294418",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221474,
+      "id": 1786954548886,
       "nama": "MUHAMMAD IBNU SABIL",
       "nohp": "082284307590",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221475,
+      "id": 1786954548887,
       "nama": "MUHAMMAD SAZLAN SHAH",
       "nohp": "089531611274",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221476,
+      "id": 1786954548888,
       "nama": "NASHITA NAURA",
       "nohp": "08126727308",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221477,
+      "id": 1786954548889,
       "nama": "RAHMA ANDINI SORAYA",
       "nohp": "085274606073",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221478,
+      "id": 1786954548890,
       "nama": "RAHMAD GHATFAN",
       "nohp": "082283123771",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221479,
+      "id": 1786954548891,
       "nama": "RAKHA DWINANDA PUTRA",
       "nohp": "-",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221480,
+      "id": 1786954548892,
       "nama": "RAZQA FAZIL DEFANDRYAN ZACK",
       "nohp": "6282210062160",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221481,
+      "id": 1786954548893,
       "nama": "RIVANA AZZAHRA",
       "nohp": "081229085724",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221482,
+      "id": 1786954548894,
       "nama": "SABRINA ARIF RAYYANI",
       "nohp": "081365432192",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221483,
+      "id": 1786954548895,
       "nama": "SYAUQI ADDAWI",
       "nohp": "081363317949",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221484,
+      "id": 1786954548896,
+      "nama": "SYNNEVA ADHWARETHA",
+      "nohp": "-",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1786954548897,
       "nama": "TAUFIQ MUHAMMAD RAFI",
       "nohp": "082170212968",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221485,
+      "id": 1786954548898,
       "nama": "ZAHWA ALYA PUTRI",
       "nohp": "08126710599",
       "kelas": "X.1"
     },
     {
-      "id": 1786954221486,
+      "id": 1786954548899,
       "nama": "ZHENO ALFARES",
       "nohp": "082284511717",
       "kelas": "X.1"
