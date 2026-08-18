@@ -1,10 +1,30 @@
 [
-  {"username": "razqa", "password": "razqaketua"},
-  {"username": "aga", "password": "agaadmin"},
-  {"username": "khaira", "password": "khairasek1"},
-  {"username": "syauqi", "password": "syauqiwakil"},
-  {"username": "rivana", "password": "rivanakeb1"},
-  {"username": "guru", "password": "gurumapel"},
-  {"username": "walas", "password": "walasx1"},
-  {"username": "thifah", "password": "thifah1"}
+  {
+    "username": "razqa",
+    "password": "razqaketua"
+  },
+  {
+    "username": "aga",
+    "password": "agaadmin"
+  },
+  {
+    "username": "khaira",
+    "password": "khairasek1"
+  },
+  {
+    "username": "syauqi",
+    "password": "syauqiwakil"
+  },
+  {
+    "username": "rivana",
+    "password": "rivanakeb1"
+  },
+  {
+    "username": "guru",
+    "password": "gurumapel"
+  },
+  {
+    "username": "walas",
+    "password": "walasx1"
+  }
 ]
