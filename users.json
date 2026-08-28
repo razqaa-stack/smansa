@@ -1,12 +1,446 @@
 {
   "kelases": [
-    "UNASSIGNED / CLEARED"
+    "X.1"
   ],
-  "siswas": [],
+  "siswas": [
+    {
+      "id": 1787909913648,
+      "nama": "AHMAD SYAUQI AWINZA",
+      "nohp": "0111671286",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913649,
+      "nama": "AIMATUL CHAIRA SYAH",
+      "nohp": "0116221551",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913650,
+      "nama": "ALFATIHATUNNISA BRILIANT GHAISANI",
+      "nohp": "0114394331",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913651,
+      "nama": "ALICIA QUEENARA",
+      "nohp": "0106403349",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913652,
+      "nama": "ALIKA KAYSHA ATHALIA",
+      "nohp": "0115196660",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913653,
+      "nama": "ARUM MUSFITA",
+      "nohp": "0104707027",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913654,
+      "nama": "ATIKA NAJWA IKHWANI",
+      "nohp": "0102324641",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913655,
+      "nama": "AULIA ANISA PUTRI",
+      "nohp": "0108635307",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913656,
+      "nama": "DARRELL YUSUF ATHILA",
+      "nohp": "0114610292",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913658,
+      "nama": "FABYOLA SAFITRI",
+      "nohp": "0108333987",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913659,
+      "nama": "FAREL AUFA DEZA",
+      "nohp": "0107467082",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913660,
+      "nama": "FARREL ALVARO LAKSMANA",
+      "nohp": "0116049315",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913661,
+      "nama": "HAKAM SADIQ PATI",
+      "nohp": "0107939240",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913662,
+      "nama": "JAMILLATUL LATHIFAH",
+      "nohp": "0106420074",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913663,
+      "nama": "JIHAN AFIFAH",
+      "nohp": "0112347847",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913664,
+      "nama": "KAREN TRIRELY GITA SIMATUPANG",
+      "nohp": "0116796399",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913665,
+      "nama": "KEISHA RAINA RAHMAN",
+      "nohp": "0105021641",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913666,
+      "nama": "KHAIRA SACHI KAYANA",
+      "nohp": "0118183459",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913667,
+      "nama": "LAILATUL SALMA",
+      "nohp": "0114599319",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913668,
+      "nama": "LAKEYSHA AURA REZKI",
+      "nohp": "0117447970",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913669,
+      "nama": "LUTHFI KARIM",
+      "nohp": "3109896265",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913670,
+      "nama": "MUHAMMAD AL AKRAM BOER",
+      "nohp": "0119868155",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913671,
+      "nama": "MUHAMMAD IBNU SABIL",
+      "nohp": "0109404784",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913672,
+      "nama": "MUHAMMAD SAZLAN SHAH",
+      "nohp": "0114824647",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913673,
+      "nama": "NASHITA NAURA",
+      "nohp": "0112924486",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913674,
+      "nama": "RAHMA ANDINI SORAYA",
+      "nohp": "0113908950",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913675,
+      "nama": "RAHMAD GHATFAN",
+      "nohp": "0101582500",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913676,
+      "nama": "RAKHA DWINANDA PUTRA",
+      "nohp": "0111575653",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913677,
+      "nama": "RAZQA FAZIL DEFANDRYAN ZACK",
+      "nohp": "0112909543",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913678,
+      "nama": "RIVANA AZZAHRA",
+      "nohp": "0106326807",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913679,
+      "nama": "SABRINA ARIF RAYYANI",
+      "nohp": "0115537970",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913680,
+      "nama": "SYAUQI ADDAWI",
+      "nohp": "0113551529",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913681,
+      "nama": "SYNNEVA ADHWARETHA",
+      "nohp": "3100529467",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913682,
+      "nama": "TAUFIQ MUHAMMAD RAFI",
+      "nohp": "0108327276",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913683,
+      "nama": "ZAHWA ALYA PUTRI",
+      "nohp": "0117419107",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913684,
+      "nama": "ZHENO ALFARES",
+      "nohp": "0105275876",
+      "kelas": "X.1"
+    }
+  ],
   "metadata": {
-    "kelas": "UNASSIGNED / CLEARED",
-    "jumlah_siswa": 0,
-    "updated": "2026-08-28T09:37:31.959Z"
+    "kelas": "X.1",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-28T09:38:49.140Z"
   },
-  "siswa": []
+  "siswa": [
+    {
+      "id": 1787909913648,
+      "nama": "AHMAD SYAUQI AWINZA",
+      "nohp": "0111671286",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913649,
+      "nama": "AIMATUL CHAIRA SYAH",
+      "nohp": "0116221551",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913650,
+      "nama": "ALFATIHATUNNISA BRILIANT GHAISANI",
+      "nohp": "0114394331",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913651,
+      "nama": "ALICIA QUEENARA",
+      "nohp": "0106403349",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913652,
+      "nama": "ALIKA KAYSHA ATHALIA",
+      "nohp": "0115196660",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913653,
+      "nama": "ARUM MUSFITA",
+      "nohp": "0104707027",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913654,
+      "nama": "ATIKA NAJWA IKHWANI",
+      "nohp": "0102324641",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913655,
+      "nama": "AULIA ANISA PUTRI",
+      "nohp": "0108635307",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913656,
+      "nama": "DARRELL YUSUF ATHILA",
+      "nohp": "0114610292",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913658,
+      "nama": "FABYOLA SAFITRI",
+      "nohp": "0108333987",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913659,
+      "nama": "FAREL AUFA DEZA",
+      "nohp": "0107467082",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913660,
+      "nama": "FARREL ALVARO LAKSMANA",
+      "nohp": "0116049315",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913661,
+      "nama": "HAKAM SADIQ PATI",
+      "nohp": "0107939240",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913662,
+      "nama": "JAMILLATUL LATHIFAH",
+      "nohp": "0106420074",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913663,
+      "nama": "JIHAN AFIFAH",
+      "nohp": "0112347847",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913664,
+      "nama": "KAREN TRIRELY GITA SIMATUPANG",
+      "nohp": "0116796399",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913665,
+      "nama": "KEISHA RAINA RAHMAN",
+      "nohp": "0105021641",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913666,
+      "nama": "KHAIRA SACHI KAYANA",
+      "nohp": "0118183459",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913667,
+      "nama": "LAILATUL SALMA",
+      "nohp": "0114599319",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913668,
+      "nama": "LAKEYSHA AURA REZKI",
+      "nohp": "0117447970",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913669,
+      "nama": "LUTHFI KARIM",
+      "nohp": "3109896265",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913670,
+      "nama": "MUHAMMAD AL AKRAM BOER",
+      "nohp": "0119868155",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913671,
+      "nama": "MUHAMMAD IBNU SABIL",
+      "nohp": "0109404784",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913672,
+      "nama": "MUHAMMAD SAZLAN SHAH",
+      "nohp": "0114824647",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913673,
+      "nama": "NASHITA NAURA",
+      "nohp": "0112924486",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913674,
+      "nama": "RAHMA ANDINI SORAYA",
+      "nohp": "0113908950",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913675,
+      "nama": "RAHMAD GHATFAN",
+      "nohp": "0101582500",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913676,
+      "nama": "RAKHA DWINANDA PUTRA",
+      "nohp": "0111575653",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913677,
+      "nama": "RAZQA FAZIL DEFANDRYAN ZACK",
+      "nohp": "0112909543",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913678,
+      "nama": "RIVANA AZZAHRA",
+      "nohp": "0106326807",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913679,
+      "nama": "SABRINA ARIF RAYYANI",
+      "nohp": "0115537970",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913680,
+      "nama": "SYAUQI ADDAWI",
+      "nohp": "0113551529",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913681,
+      "nama": "SYNNEVA ADHWARETHA",
+      "nohp": "3100529467",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913682,
+      "nama": "TAUFIQ MUHAMMAD RAFI",
+      "nohp": "0108327276",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913683,
+      "nama": "ZAHWA ALYA PUTRI",
+      "nohp": "0117419107",
+      "kelas": "X.1"
+    },
+    {
+      "id": 1787909913684,
+      "nama": "ZHENO ALFARES",
+      "nohp": "0105275876",
+      "kelas": "X.1"
+    }
+  ]
 }
